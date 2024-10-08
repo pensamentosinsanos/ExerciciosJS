@@ -1,3 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
 input{
     margin: 10px;
+}
+header{
+    background: rgb(58,106,180);
+    background: linear-gradient(90deg, rgba(58,106,180,1) 0%, rgba(29,127,253,1) 34%, rgba(0,0,0,1) 100%);;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 35px;
+}
+fieldset{
+    margin-top: 5%;
+    margin-left: 35%;
+    width: 30%;
+    height: 450px;
+    font-family: sans-serif;
+    padding-left: 80px;
+}
+#logintexto{
+    margin-left: 10px;
+    margin-top: 30px;
+    font-size: 35px;
+}
+.preencher{
+    width: 70%;
+    height: 30px;
+    border: none;
+    background-color: rgb(151, 151, 151);
+}
+label{
+    margin-left: 10px; 
+}
+#enviar{
+    background-color: rgb(10, 84, 243);
+    border: none;
+    width: 70%;
+    height: 30px;
 }
