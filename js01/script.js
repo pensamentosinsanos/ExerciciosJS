@@ -29,5 +29,5 @@ btnDividir.addEventListener("click",() => {
     let numero2 = document.getElementById("numero2").value;
     let dividir = parseInt(numero1) / parseInt(numero2);
     console.log(dividir);
-})
+});
 
