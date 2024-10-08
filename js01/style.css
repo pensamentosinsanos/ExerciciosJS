@@ -82,6 +82,10 @@ body{
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f4c480",endColorstr="#ffae00",GradientType=1);
 }
 #resultado{
-    margin-left: 10px;
+    margin-left: 16px;
     color: white;
+}
+label{
+    color: white;
+    margin-left: 16px;
 }
